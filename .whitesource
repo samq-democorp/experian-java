@@ -3,6 +3,7 @@
     "scanSettings": {
       "configMode": "EXTERNAL",
       "configExternalURL": "https://raw.githubusercontent.com/samq-democorp/whitesource-config/main/presteps/whitesource.config",
+      "javaVersion": "8"
       "enableReachability": true
   }
 }
