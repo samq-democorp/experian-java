@@ -15,7 +15,7 @@
 		<dependency>
 			<groupId>com.experian.bis.api.lib</groupId>
 			<artifactId>bis-services-base</artifactId>
-			<version>1.0.0</version>
+			<version>1.0.2</version>
 		</dependency>
 		<dependency>
 			<groupId>junit</groupId>
